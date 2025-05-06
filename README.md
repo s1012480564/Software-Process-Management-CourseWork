@@ -1,6 +1,6 @@
 # Software Process Management CourseWork
  
-FDU 软件过程管理课程作业
+FDU 软件过程管理课程作业：自习座位预约系统
 
 前后端均由我完成
 
